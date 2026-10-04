@@ -150,7 +150,7 @@ based on predicted churn probability.
 
 | File | Description |
 |---|---|
-| `Telco_Churn_Prediction.ipynb` | Complete analysis and modeling notebook |
+| `Customer_Churn_Analysis.ipynb` | Complete analysis and modeling notebook |
 | `Causal_Analysis_TechSupport.ipynb` | Propensity score matching analysis of Tech Support's causal effect on churn |
 | `feature_importance.csv` | Logistic Regression coefficients |
 | `churn_predictions.csv` | Prediction results on test data |
