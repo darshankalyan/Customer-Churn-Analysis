@@ -94,6 +94,9 @@ Generated:
 
 ## Does Tech Support Actually Reduce Churn?
 
+![Naive vs Causal Estimate](naive_vs_causal.png)
+![Covariate Balance (Love Plot)](love_plot.png)
+
 The predictive model flags Tech Support as one of its stronger churn
 correlates. But a predictor isn't automatically a lever. Customers who
 subscribe to Tech Support are also disproportionately on longer
